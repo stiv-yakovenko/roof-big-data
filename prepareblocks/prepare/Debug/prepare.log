@@ -1,0 +1,6 @@
+﻿  prepare.cpp
+c:\users\steve\project\roof-big-data\prepareblocks\prepare\prepare.cpp(43): warning C4101: 'b': unreferenced local variable
+c:\users\steve\project\roof-big-data\prepareblocks\prepare\prepare.cpp(43): warning C4101: 'g': unreferenced local variable
+c:\users\steve\project\roof-big-data\prepareblocks\prepare\prepare.cpp(43): warning C4101: 'r': unreferenced local variable
+  prepare.vcxproj -> C:\Users\steve\Project\roof-big-data\prepareblocks\prepare\Debug\prepare.exe
+  prepare.vcxproj -> C:\Users\steve\Project\roof-big-data\prepareblocks\prepare\Debug\prepare.pdb (Full PDB)
